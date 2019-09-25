@@ -3,7 +3,8 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "type": "string"
+      "type": "string",
+      "value": "RANDOM-WEBSITE12"
     },
     "hostingPlanName": {
        "type": "string"
