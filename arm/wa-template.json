@@ -4,15 +4,15 @@
   "parameters": {
     "siteName": {
       "type": "string",
-      "value": "RANDOM-WEBSITE12"
+      "defaultvalue": "dante1"
     },
     "hostingPlanName": {
        "type": "string",
-      "value": "RANDOM-WEBSITE-HOSTING21"
+      "defaultvalue": "RANDOM-WEBSITE-HOSTING21"
     },
     "sku": {
       "type": "string",
-      "value": "S1",
+      "defaultvalue": "S1",
       "metadata": {
         "description": "The pricing tier for the hosting plan."
       }
